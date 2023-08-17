@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="AdminBlog.aspx.cs" Inherits="DiziYorumProje.AdminSayfalar.Blog" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div style="margin:20px 0px;">
-        <a href="AdminBlogekle.aspx" class="btn btn-info">Blog Ekle</a>
+        <a href="/AdminSayfalar/AdminBlogekle.aspx/" class="btn btn-info">Blog Ekle</a>
     </div>
     <table class="table table-bordered">
         <tr>
