@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Admin.Master" AutoEventWireup="true" CodeBehind="AdminTür.aspx.cs" Inherits="DiziYorumProje.AdminSayfalar.AdminTür" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div style="margin:20px 0px;">
-        <a href="Admintürekleme.aspx" class="btn btn-info">Tür Ekle</a>
+        <a href="/AdminSayfalar/Admintürekleme.aspx/" class="btn btn-info">Tür Ekle</a>
     </div>
     <table class="table table-bordered">
         <tr>
