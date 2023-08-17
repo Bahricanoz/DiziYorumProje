@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="80cd27cde86d4309b4c86d8cb9c09a83" Name="Diagram1">
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Blog" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Hakkımızda" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Kategori" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Mesajlar" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Tur" Width="1.5" PointX="0.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Yorumlar" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="Db_DizifilmblogModel.FK_Tbl_Blog_Tbl_Kategori" ManuallyRouted="false" />
+        <AssociationConnector Association="Db_DizifilmblogModel.FK_Tbl_Blog_Tbl_Tur" ManuallyRouted="false" />
+        <AssociationConnector Association="Db_DizifilmblogModel.FK_Tbl_Yorumlar_Tbl_Blog" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Db_DizifilmblogModel.Tbl_Admin" Width="1.5" PointX="7.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
