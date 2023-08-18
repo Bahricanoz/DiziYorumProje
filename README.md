@@ -32,14 +32,14 @@ Login Paneli:
 
 Admin Paneli:
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/e17c8257-01b2-41ce-a0fc-ef0df17fd1ce)
-- ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/baf14888-8a15-48a1-b125-c1030a4ec72a)ü
+- ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/baf14888-8a15-48a1-b125-c1030a4ec72a)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/c660f7e5-a355-4c10-9952-b578be09801d)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/0abffc06-de9f-4a01-bf55-f75387fb6e1e)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/b064e248-4d38-4f92-8813-45ffe02b3661)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/360d684d-9c9e-408f-93bc-22994b9b978b)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/49169372-46dd-492d-bd45-802b43f55152)
-- ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/108d3a25-0a6f-42f8-a2f5-9ec6f784cfc2)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/0a953dbb-b125-4fa3-bcbe-96e60dd516b3)
+- ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/108d3a25-0a6f-42f8-a2f5-9ec6f784cfc2)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/2cafcc2b-d789-4bd1-9cfb-2853b4483b86)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/e572e7ff-1023-45ee-a479-b684d52c918e)
 - ![image](https://github.com/Bahricanoz/DiziYorumProje/assets/128741075/81ce4db8-9eea-4e3c-b4d4-44523fc97b88)
